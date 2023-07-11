@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pmmcg\\source\\repos\\Personal\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj": {}
+    "C:\\Users\\pmmcg\\source\\repos\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pmmcg\\source\\repos\\Personal\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj": {
+    "C:\\Users\\pmmcg\\source\\repos\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pmmcg\\source\\repos\\Personal\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj",
+        "projectUniqueName": "C:\\Users\\pmmcg\\source\\repos\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj",
         "projectName": "VirtualLibrary2.API",
-        "projectPath": "C:\\Users\\pmmcg\\source\\repos\\Personal\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj",
+        "projectPath": "C:\\Users\\pmmcg\\source\\repos\\VirtualLibrary2\\VirtualLibrary2.API\\VirtualLibrary2.API.csproj",
         "packagesPath": "C:\\Users\\pmmcg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pmmcg\\source\\repos\\Personal\\VirtualLibrary2\\VirtualLibrary2.API\\obj\\",
+        "outputPath": "C:\\Users\\pmmcg\\source\\repos\\VirtualLibrary2\\VirtualLibrary2.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmmcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
